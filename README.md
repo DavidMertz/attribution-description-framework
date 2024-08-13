@@ -1,7 +1,7 @@
 # attribution-description-framework
 
 Ths repository intends to define standards for attribution of content that
-is used for training of (generative) AI models.  The Attribution Descriptin 
+is used for training of (generative) AI models.  The Attribution Description 
 Framework (ADF) builds upon RDF (Resource Description Framework) to create a 
 mechanism to describe both the origin and permitted uses of particular 
 content within training corpora of machine learning models.
